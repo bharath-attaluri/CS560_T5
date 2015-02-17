@@ -1,0 +1,8 @@
+com.ibm.personafusion.controller.AddController
+com.ibm.personafusion.controller.FollowUpController
+com.ibm.personafusion.controller.SearchController
+com.ibm.personafusion.controller.PeopleController
+com.ibm.personafusion.controller.VizController
+com.ibm.personafusion.controller.TestService
+com.ibm.personafusion.controller.PutCS560
+com.ibm.personafusion.controller.PutFileReader
